@@ -1,5 +1,4 @@
 # pyBrowser
-# pyBrowser
 <p align="center">
   <a href="https://github.com/itzshikto/pyBrowser/releases/"><img src="https://img.shields.io/github/downloads/itzshikto/pyBrowser/total.svg" alt="GitHub All Releases"/></a>
 </p>
